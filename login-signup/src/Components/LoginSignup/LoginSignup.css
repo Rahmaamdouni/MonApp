@@ -1,0 +1,98 @@
+.container{
+
+display: flex;
+flex-direction: column;
+margin: auto;
+
+margin-right: 20px;
+padding-left: 100px;
+background: #f8f4f4;
+width: 600px;
+padding: 50px;
+
+
+}
+
+.header{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 9px;
+width: 100%;
+margin-top: 10px;
+
+
+}
+.text {
+
+color: #05010c;
+font-size: 29px;
+font-weight: 500;
+margin-right: 200px;
+margin-left: 100px;
+
+
+}
+.t1{
+    font-weight: 300;
+    margin-right: 235px;
+margin-left: 100px;
+}
+
+
+.inputs{
+
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+
+}
+.input{
+
+display: flex;
+align-items: center;
+margin: auto;
+width: 480px;
+height: 80px;
+background: #eaeaea;
+border-radius: 6px;
+}
+.input img{
+    margin: 0px 30px;
+}
+.input input{
+
+height: 50px;
+width: 400px;
+background: transparent;
+border: none;
+outline: none;
+color: darkkhaki;
+font-size: 19px;
+
+
+}
+
+.submit{
+
+   
+   
+    width:100px;
+    height: 59px;
+    color: #fff;
+    background: #305cec;
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 450px;
+
+    cursor: pointer;
+}
+.logo1{
+    margin-left: 410px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    
+}
